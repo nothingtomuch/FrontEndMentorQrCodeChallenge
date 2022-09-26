@@ -8,18 +8,19 @@ body{
     display:flex;
     flex-direction: column;
 align-items: center;
-width: 300px;
+width: 20rem;
 }
-.qr-code-card h2{
+.qr-code-card h1{
     max-width: 300px;
     color:hsl(218, 44%, 22%);
     text-align:center;
-    margin: 0px;
+    margin: 0;
+    font-size: 1.5rem;
 }
 .qr-code-card p{
     color:hsl(220, 15%, 55%);
-    max-width: 250px;
-    font-size: 15px;
+    max-width: 25em;
+    font-size: 0.9rem;
     text-align:center;
 }
 .qr-code-container{
